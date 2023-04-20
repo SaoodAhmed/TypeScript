@@ -1,0 +1,4 @@
+npm init -y --> add type + module
+tsc --init --> setting up the version esc2023 in tscconfig file
+npm i inquirer
+npm i @types/inquirer -D

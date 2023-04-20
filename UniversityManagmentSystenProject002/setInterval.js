@@ -1,0 +1,1 @@
+setInterval(()=>console.log("Every 2 second"),2000)
