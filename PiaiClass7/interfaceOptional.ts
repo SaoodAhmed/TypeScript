@@ -1,10 +1,10 @@
-type Poet = {
+interface Poet{
     name:string;
     born:number;
     type?:'Poet'|'Writer'
 }
-
 let Aamar:Poet;
+
 Aamar = {
     name:"Aamar Jaleel",
     born:1940,

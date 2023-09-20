@@ -7,6 +7,6 @@ let Mehran = {
 Mehran.volume = 5;
 console.log(Mehran);
 let dust = {
-    name: "",
+    //name:"", // error bcz you should have to create those properiteis that, stroe only numbers
     price: 4
 };

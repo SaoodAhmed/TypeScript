@@ -38,10 +38,10 @@ let calculator:calc;
 
 
 
-function math(a:number, b:number){
-    math.result = a-b;
-    console.log("result is "+math.result)
+function maths(a:number, b:number){
+    maths.result = a-b;
+    console.log("result is: "+maths.result)
 }
-math.result = 0;
-calculator = math;
+maths.result = 0;
+calculator = maths;
 calculator(4,6);

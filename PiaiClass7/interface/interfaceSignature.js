@@ -17,10 +17,10 @@ let calculator;
 //     }
 // }
 // calculator.abc(8,7);
-function math(a, b) {
-    math.result = a - b;
-    console.log("result is " + math.result);
+function maths(a, b) {
+    maths.result = a - b;
+    console.log("result is: " + maths.result);
 }
-math.result = 0;
-calculator = math;
+maths.result = 0;
+calculator = maths;
 calculator(4, 6);

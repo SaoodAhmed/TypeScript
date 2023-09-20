@@ -49,6 +49,7 @@ let saud:teacher = {
     academy:"Home Tutor"
 }
 
+
 let Saud:student = {
     name:"Saud Ahmed",
     age:null,
